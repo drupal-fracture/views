@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\views\Plugin\block\block\ViewsBlock.
+ * Contains \Drupal\views\Plugin\Block\ViewsBlock.
  */
 
-namespace Drupal\views\Plugin\block\block;
+namespace Drupal\views\Plugin\Block;
 
 use Drupal\block\BlockBase;
 use Drupal\block\Plugin\Core\Entity\Block;

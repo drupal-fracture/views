@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\views\Plugin\block\block\ViewsExposedFilterBlock.
+ * Contains \Drupal\views\Plugin\Block\ViewsExposedFilterBlock.
  */
 
-namespace Drupal\views\Plugin\block\block;
+namespace Drupal\views\Plugin\Block;
 
 use Drupal\Component\Annotation\Plugin;
 use Drupal\Core\Annotation\Translation;
